@@ -1,0 +1,17 @@
+Ich bin hier
+Auf Branch master
+
+Initialer Commit
+
+Unbeobachtete Dateien:
+	xxx.txt
+
+nichts zum Commit vorgemerkt, aber es gibt unbeobachtete Dateien
+Auf Branch master
+
+Initialer Commit
+
+Unbeobachtete Dateien:
+	xxx.txt
+
+nichts zum Commit vorgemerkt, aber es gibt unbeobachtete Dateien
